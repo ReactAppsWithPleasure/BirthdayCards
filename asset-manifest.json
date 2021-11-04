@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Birthday-useState/static/css/main.a183a21f.chunk.css",
-    "main.js": "/Birthday-useState/static/js/main.189805dc.chunk.js",
-    "main.js.map": "/Birthday-useState/static/js/main.189805dc.chunk.js.map",
-    "runtime-main.js": "/Birthday-useState/static/js/runtime-main.4e357214.js",
-    "runtime-main.js.map": "/Birthday-useState/static/js/runtime-main.4e357214.js.map",
-    "static/js/2.2fc6586c.chunk.js": "/Birthday-useState/static/js/2.2fc6586c.chunk.js",
-    "static/js/2.2fc6586c.chunk.js.map": "/Birthday-useState/static/js/2.2fc6586c.chunk.js.map",
-    "index.html": "/Birthday-useState/index.html",
-    "static/css/main.a183a21f.chunk.css.map": "/Birthday-useState/static/css/main.a183a21f.chunk.css.map",
-    "static/js/2.2fc6586c.chunk.js.LICENSE.txt": "/Birthday-useState/static/js/2.2fc6586c.chunk.js.LICENSE.txt"
+    "main.css": "/BirthdayCards/static/css/main.a183a21f.chunk.css",
+    "main.js": "/BirthdayCards/static/js/main.189805dc.chunk.js",
+    "main.js.map": "/BirthdayCards/static/js/main.189805dc.chunk.js.map",
+    "runtime-main.js": "/BirthdayCards/static/js/runtime-main.bc4f95bf.js",
+    "runtime-main.js.map": "/BirthdayCards/static/js/runtime-main.bc4f95bf.js.map",
+    "static/js/2.2fc6586c.chunk.js": "/BirthdayCards/static/js/2.2fc6586c.chunk.js",
+    "static/js/2.2fc6586c.chunk.js.map": "/BirthdayCards/static/js/2.2fc6586c.chunk.js.map",
+    "index.html": "/BirthdayCards/index.html",
+    "static/css/main.a183a21f.chunk.css.map": "/BirthdayCards/static/css/main.a183a21f.chunk.css.map",
+    "static/js/2.2fc6586c.chunk.js.LICENSE.txt": "/BirthdayCards/static/js/2.2fc6586c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e357214.js",
+    "static/js/runtime-main.bc4f95bf.js",
     "static/js/2.2fc6586c.chunk.js",
     "static/css/main.a183a21f.chunk.css",
     "static/js/main.189805dc.chunk.js"
